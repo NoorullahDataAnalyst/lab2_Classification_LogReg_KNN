@@ -1,5 +1,5 @@
 # lab2_Classification_LogReg_KNN
-# 🎓 Week 5: Machine Learning with Scikit-Learn Labs 03
+# 🎓Machine Learning with Scikit-Learn Labs 03
 
 A comprehensive collection of hands-on lab notebooks for learning Machine Learning fundamentals using Python and Scikit-Learn.
 
